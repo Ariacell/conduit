@@ -3,15 +3,15 @@
     "types": ["character", "npc"],
     "templates": {
       "base": {
-        "health": {
+        "life": {
           "value": 10,
           "min": 0,
-          "max": 10
+          "max": 20
         },
-        "power": {
+        "toughness": {
           "value": 5,
           "min": 0,
-          "max": 5
+          "max": 20
         },
         "biography": ""
       }
