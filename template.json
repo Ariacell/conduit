@@ -24,22 +24,13 @@
         }
       },
       "abilities": {
-        "str": {
+        "Tch": {
           "value": 10
         },
-        "dex": {
+        "Bdy": {
           "value": 10
         },
-        "con": {
-          "value": 10
-        },
-        "int": {
-          "value": 10
-        },
-        "wis": {
-          "value": 10
-        },
-        "cha": {
+        "Mnd": {
           "value": 10
         }
       }

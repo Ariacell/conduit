@@ -1,12 +1,9 @@
 {
   "CONDUIT": {
     "Ability": {
-      "Str": { "long": "Strength", "abbr": "str" },
-      "Con": { "long": "Constitution", "abbr": "con" },
-      "Dex": { "long": "Dexterity", "abbr": "dex" },
-      "Int": { "long": "Intelligence", "abbr": "int" },
-      "Wis": { "long": "Wisdom", "abbr": "wis" },
-      "Cha": { "long": "Charisma", "abbr": "cha" }
+      "Tch": { "long": "Technique", "abbr": "tch" },
+      "Bdy": { "long": "Body", "abbr": "bdy" },
+      "Mnd": { "long": "Mind", "abbr": "mnd" }
     },
     "SheetLabels": {
       "Actor": "Conduit Actor Sheet",

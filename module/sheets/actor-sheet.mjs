@@ -81,6 +81,8 @@ export class ConduitActorSheet extends ActorSheet {
   _prepareCharacterData(context) {
     // Handle ability scores.
     for (let [k, v] of Object.entries(context.system.abilities)) {
+      console.log(k)
+      console.log(v)
       v.label = game.i18n.localize(CONFIG.CONDUIT.abilities[k]) ?? k;
     }
   }
