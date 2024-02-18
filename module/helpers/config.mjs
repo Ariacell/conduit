@@ -1,23 +1,23 @@
-export const BOILERPLATE = {};
+export const CONDUIT = {};
 
 /**
  * The set of Ability Scores used within the system.
  * @type {Object}
  */
-BOILERPLATE.abilities = {
-  str: 'BOILERPLATE.Ability.Str.long',
-  dex: 'BOILERPLATE.Ability.Dex.long',
-  con: 'BOILERPLATE.Ability.Con.long',
-  int: 'BOILERPLATE.Ability.Int.long',
-  wis: 'BOILERPLATE.Ability.Wis.long',
-  cha: 'BOILERPLATE.Ability.Cha.long',
+CONDUIT.abilities = {
+  str: 'CONDUIT.Ability.Str.long',
+  dex: 'CONDUIT.Ability.Dex.long',
+  con: 'CONDUIT.Ability.Con.long',
+  int: 'CONDUIT.Ability.Int.long',
+  wis: 'CONDUIT.Ability.Wis.long',
+  cha: 'CONDUIT.Ability.Cha.long',
 };
 
-BOILERPLATE.abilityAbbreviations = {
-  str: 'BOILERPLATE.Ability.Str.abbr',
-  dex: 'BOILERPLATE.Ability.Dex.abbr',
-  con: 'BOILERPLATE.Ability.Con.abbr',
-  int: 'BOILERPLATE.Ability.Int.abbr',
-  wis: 'BOILERPLATE.Ability.Wis.abbr',
-  cha: 'BOILERPLATE.Ability.Cha.abbr',
+CONDUIT.abilityAbbreviations = {
+  str: 'CONDUIT.Ability.Str.abbr',
+  dex: 'CONDUIT.Ability.Dex.abbr',
+  con: 'CONDUIT.Ability.Con.abbr',
+  int: 'CONDUIT.Ability.Int.abbr',
+  wis: 'CONDUIT.Ability.Wis.abbr',
+  cha: 'CONDUIT.Ability.Cha.abbr',
 };
